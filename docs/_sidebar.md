@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Intro](/README.md)
+* [Intro](/)
 
 * WakeCap Management System
 
