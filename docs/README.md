@@ -20,7 +20,7 @@ A Token can be acquired from [contact us](https://www.wakecap.com/scheduledemo).
 
 ### RestFul APIs
 
-WakeCap RestFul APIs are based mainly based on CRUD operations.
+WakeCap RestFul APIs are based mainly on CRUD operations.
 
 For example, Users Management System Can be called as following: 
 
